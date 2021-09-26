@@ -1,0 +1,5 @@
+Disini saya menggunakan 2 device yaitu lampu dan jendela, kemudian 1 sensor pendeteksi gerak, 1 end device PC, 1 switch PT dan 1 server. 
+Kemudian Registration Server yang saya buat yaitu dengan user: inez dan password: inez
+cara melihat berhasil tidaknya registration server yang telah di input dengan melalui server kemudian menuju desktop lalu pilih web browser kemudian memasukkan server addressnya 1.0.0.1 lalu klik go kemudian masukkan username dan password lalu sign in maka akan masuk kedalam IoT server 
+Jika sensor pada ruangan menedeteksi jika terjadi pergerakan maka lampu akan menyala dan jendela akan tertutup. 
+Dan jika sensor pada ruangan tidak mendeteksi adanya pergerakan maka lampu akan mati dan jendela akan terbuka karena ruangan membutuhkan cahaya dari luar.
